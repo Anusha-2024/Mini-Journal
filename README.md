@@ -18,6 +18,10 @@ A beautiful and interactive digital diary with magical page-turning experiences.
 
 ---
 
+Sneak Peek
+![Sneak Peek](./preview.gif)
+
+
 ## 🛠 Technologies Used
 
 - React 18
