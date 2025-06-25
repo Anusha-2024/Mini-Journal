@@ -19,7 +19,7 @@ A beautiful and interactive digital diary with magical page-turning experiences.
 ---
 
 Sneak Peek
-![Sneak Peek](./preview.gif)
+![Sneak Peek](https://github.com/Anusha-2024/Mini-Journal/blob/main/minijournal.gif?raw=true)
 
 
 ## 🛠 Technologies Used
