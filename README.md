@@ -72,6 +72,11 @@ Your theme preference is saved locally and applied automatically on return visit
 
 Contributions are welcome!
 
+  ## 📩 Contact
+Created by Anusha
+
+📧 Gmail: krianusha09@gmail.com
+
 ## 📄 License
 
 This project is licensed under the MIT License.
